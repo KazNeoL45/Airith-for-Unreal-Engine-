@@ -1,0 +1,12 @@
+PLACEHOLDER FOR ICON
+
+This folder should contain:
+- ButtonIcon_40x.png (40x40 pixels)
+- Icon128.png (128x128 pixels)
+
+Recommended icon design:
+- A stylized "A" or "AI" symbol
+- Colors: Blue/Purple gradient (representing AI/technology)
+- Clean, modern design that fits Unreal Engine's visual style
+
+You can create these icons using any image editor and save them as PNG files in this Resources folder.

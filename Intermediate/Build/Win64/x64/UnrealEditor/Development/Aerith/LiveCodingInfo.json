@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Aerith.cpp.obj": [
+			"Aerith.init.gen.cpp.obj",
+			"AerithSettings.gen.cpp.obj",
+			"ClaudeAPIClient.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"Aerith.cpp.obj",
+			"AerithSettings.cpp.obj",
+			"ClaudeAPIClient.cpp.obj"
+		]
+	}
+}

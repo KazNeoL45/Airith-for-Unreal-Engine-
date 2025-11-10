@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\codenamecrimson\\plugins\\aerith\\source\\aerith\\private\\aerith.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\codenamecrimson\\intermediate\\build\\win64\\x64\\codenamecrimsoneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "e:\\codenamecrimson\\plugins\\aerith\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\aerith\\definitions.aerith.h",
+            "e:\\codenamecrimson\\plugins\\aerith\\source\\aerith\\public\\aerith.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

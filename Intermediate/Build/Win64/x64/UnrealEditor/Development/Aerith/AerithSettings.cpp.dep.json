@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\codenamecrimson\\plugins\\aerith\\source\\aerith\\private\\aerithsettings.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\codenamecrimson\\intermediate\\build\\win64\\x64\\codenamecrimsoneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "e:\\codenamecrimson\\plugins\\aerith\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\aerith\\definitions.aerith.h",
+            "e:\\codenamecrimson\\plugins\\aerith\\source\\aerith\\public\\aerithsettings.h",
+            "c:\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreuobject\\uht\\propertyaccessutil.generated.h",
+            "c:\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "c:\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreuobject\\uht\\testundeclaredscriptstructobjectreferences.generated.h",
+            "c:\\ue_5.7\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\ue_5.7\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\ue_5.7\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "e:\\codenamecrimson\\plugins\\aerith\\intermediate\\build\\win64\\unrealeditor\\inc\\aerith\\uht\\aerithsettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

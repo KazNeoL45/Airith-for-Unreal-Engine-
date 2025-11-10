@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AerithEditor.cpp.obj": [
+			"AerithEditor.init.gen.cpp.obj",
+			"AerithOrchestrator.gen.cpp.obj",
+			"BlueprintAnalyzer.gen.cpp.obj",
+			"BlueprintModifier.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"AerithContentBrowserExtensions.cpp.obj",
+			"AerithEditor.cpp.obj",
+			"AerithEditorCommands.cpp.obj",
+			"AerithEditorPanel.cpp.obj",
+			"AerithEditorStyle.cpp.obj",
+			"AerithOrchestrator.cpp.obj",
+			"BlueprintAnalyzer.cpp.obj",
+			"BlueprintModifier.cpp.obj"
+		]
+	}
+}

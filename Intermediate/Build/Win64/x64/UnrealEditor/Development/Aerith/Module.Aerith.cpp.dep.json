@@ -1,0 +1,40 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\codenamecrimson\\plugins\\aerith\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\aerith\\module.aerith.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\codenamecrimson\\intermediate\\build\\win64\\x64\\codenamecrimsoneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "e:\\codenamecrimson\\plugins\\aerith\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\aerith\\definitions.aerith.h",
+            "e:\\codenamecrimson\\plugins\\aerith\\intermediate\\build\\win64\\unrealeditor\\inc\\aerith\\uht\\aerith.init.gen.cpp",
+            "e:\\codenamecrimson\\plugins\\aerith\\intermediate\\build\\win64\\unrealeditor\\inc\\aerith\\uht\\aerithsettings.gen.cpp",
+            "e:\\codenamecrimson\\plugins\\aerith\\source\\aerith\\public\\aerithsettings.h",
+            "c:\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreuobject\\uht\\propertyaccessutil.generated.h",
+            "c:\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "c:\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreuobject\\uht\\testundeclaredscriptstructobjectreferences.generated.h",
+            "c:\\ue_5.7\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\ue_5.7\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\ue_5.7\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "e:\\codenamecrimson\\plugins\\aerith\\intermediate\\build\\win64\\unrealeditor\\inc\\aerith\\uht\\aerithsettings.generated.h",
+            "e:\\codenamecrimson\\plugins\\aerith\\intermediate\\build\\win64\\unrealeditor\\inc\\aerith\\uht\\claudeapiclient.gen.cpp",
+            "e:\\codenamecrimson\\plugins\\aerith\\source\\aerith\\public\\claudeapiclient.h",
+            "c:\\ue_5.7\\engine\\source\\runtime\\online\\http\\public\\http.h",
+            "c:\\ue_5.7\\engine\\source\\runtime\\online\\http\\public\\httpmodule.h",
+            "c:\\ue_5.7\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttprequest.h",
+            "c:\\ue_5.7\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpbase.h",
+            "c:\\ue_5.7\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponse.h",
+            "c:\\ue_5.7\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponsecodes.inl",
+            "c:\\ue_5.7\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponsecodes.inl",
+            "c:\\ue_5.7\\engine\\source\\runtime\\online\\http\\public\\platformhttp.h",
+            "c:\\ue_5.7\\engine\\source\\runtime\\online\\http\\public\\windows\\windowsplatformhttp.h",
+            "c:\\ue_5.7\\engine\\source\\runtime\\online\\http\\public\\genericplatform\\genericplatformhttp.h",
+            "e:\\codenamecrimson\\plugins\\aerith\\intermediate\\build\\win64\\unrealeditor\\inc\\aerith\\uht\\claudeapiclient.generated.h",
+            "e:\\codenamecrimson\\plugins\\aerith\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\aerith\\permoduleinline.gen.cpp",
+            "c:\\ue_5.7\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

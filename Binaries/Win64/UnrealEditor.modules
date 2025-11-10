@@ -1,0 +1,8 @@
+{
+	"BuildId": "45973471",
+	"Modules": 
+	{
+		"Aerith": "UnrealEditor-Aerith.dll",
+		"AerithEditor": "UnrealEditor-AerithEditor.dll"
+	}
+}
