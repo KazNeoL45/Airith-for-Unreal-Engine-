@@ -4,7 +4,7 @@ Airith is an AI-powered plugin for Unreal Engine 5.7 to help you create, modify,
 
 ## Features
 
-- **Natural Language Blueprint Creation**: Describe what you want, and Aerith creates Blueprints for you
+- **Natural Language Blueprint Creation**: Describe what you want, and Airith creates Blueprints for you
 - **Blueprint Analysis**: Understand existing Blueprints with AI-powered analysis
 - **Blueprint Modification**: Modify existing Blueprints using natural language instructions
 - **C++ Code Generation**: Generate Unreal Engine C++ code from descriptions
@@ -18,7 +18,7 @@ Airith is an AI-powered plugin for Unreal Engine 5.7 to help you create, modify,
 
 ## Installation
 
-1. The plugin is already installed in `Engine/Plugins/Aerith`
+1. The plugin is already installed in `Engine/Plugins/Airith`
 2. Open Unreal Engine 5.7
 3. Go to **Edit → Plugins**
 4. Search for "Airith"
@@ -28,7 +28,7 @@ Airith is an AI-powered plugin for Unreal Engine 5.7 to help you create, modify,
 ## Configuration
 
 1. After enabling the plugin, go to **Edit → Project Settings**
-2. Navigate to **Plugins → Aerith AI Assistant**
+2. Navigate to **Plugins → Airith AI Assistant**
 3. Enter your **Claude API Key**
 4. (Optional) Adjust other settings:
    - **API Endpoint**: Default is Anthropic's API (usually no need to change)
@@ -40,7 +40,7 @@ Airith is an AI-powered plugin for Unreal Engine 5.7 to help you create, modify,
 
 ### Method 1: Editor Panel
 
-1. Open Aerith panel via **Window → Aerith** in the main menu
+1. Open Airith panel via **Window → Airith** in the main menu
 2. (Optional) Select a Blueprint for context using the Blueprint picker
 3. Enter your prompt in the text box
 4. Click one of the action buttons:
@@ -52,10 +52,10 @@ Airith is an AI-powered plugin for Unreal Engine 5.7 to help you create, modify,
 ### Method 2: Context Menu
 
 1. In the Content Browser, right-click on any Blueprint asset
-2. Select **Aerith AI** section
+2. Select **Airith AI** section
 3. Choose:
-   - **Analyze with Aerith**: Get AI analysis of the Blueprint
-   - **Modify with Aerith**: Enter instructions to modify the Blueprint
+   - **Analyze with Airith**: Get AI analysis of the Blueprint
+   - **Modify with Airith**: Enter instructions to modify the Blueprint
 
 ## Example Prompts
 
@@ -91,9 +91,9 @@ Create a custom ActorComponent that handles player inventory with:
 
 ## How It Works
 
-1. **Blueprint Analysis**: Aerith reads Blueprint graphs, nodes, variables, functions, and components, converting them to structured JSON data
+1. **Blueprint Analysis**: Airith reads Blueprint graphs, nodes, variables, functions, and components, converting them to structured JSON data
 2. **AI Processing**: The JSON is sent to Claude API along with your prompt and system instructions
-3. **Blueprint Modification**: Claude responds with structured instructions that Aerith executes:
+3. **Blueprint Modification**: Claude responds with structured instructions that Airith executes:
    - Adding/removing variables
    - Creating functions
    - Adding components
@@ -128,10 +128,10 @@ Create new Blueprint assets
 ## Troubleshooting
 
 ### "API Key not configured" error
-- Make sure you've entered your Claude API key in Project Settings → Plugins → Aerith
+- Make sure you've entered your Claude API key in Project Settings → Plugins → Airith
 
 ### Blueprint compilation errors after modification
-- Aerith creates the structure but might not always connect nodes perfectly
+- Airith creates the structure but might not always connect nodes perfectly
 - Open the Blueprint editor and manually fix any connection issues
 - Check the Output Log for specific compilation errors
 
@@ -145,31 +145,14 @@ Create new Blueprint assets
 - Check your internet connection
 - Verify your API key is valid and has available credits
 
-## Privacy & Security
-
-- Your prompts and Blueprint data are sent to Anthropic's Claude API
-- No data is stored by the plugin - everything is processed in real-time
-- API keys are stored in your project config (do not commit to version control!)
-- Review Anthropic's privacy policy at https://www.anthropic.com/legal/privacy
-
-## API Costs
-
-- This plugin uses Anthropic's Claude API which has usage-based pricing
-- Monitor your usage at https://console.anthropic.com/
-- Typical cost per request: $0.01-0.10 depending on complexity
-- Consider setting up usage limits in your Anthropic account
 
 ## Support & Contributing
 
-This plugin is provided as-is for educational and development purposes.
+This plugin is provided for free, any contributions are welcome :)).
 
 **Issues & Feedback**:
-- Report issues through your organization's standard channels
+- Report issues through through email at maxninesdc143c@proton.me
 - Include UE version, plugin version, and reproduction steps
-
-## License
-
-Copyright Epic Games, Inc. All Rights Reserved.
 
 ## Credits
 
@@ -178,7 +161,7 @@ Developed using:
 - Blueprint Editor APIs
 - Slate UI Framework
 
-MaxNines 2025
+Maxim J Lamas aka MaxNines 2025
 ---
 
 **Note**: This is an experimental plugin. Always back up your Blueprints before using AI modifications, and review all changes before committing to your project.
